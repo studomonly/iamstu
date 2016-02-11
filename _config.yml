@@ -18,7 +18,6 @@ image: 'assets/images/casper.png'
 
 short_url: 'studomonly.github.io/iamstu/'
 google_analytics: UA-69281367-1
-disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /iamstu/
 
@@ -40,22 +39,11 @@ exclude: [vendor]
 # Disqus comments as a per-post basis
 # ...
 
-
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
-branch: master
+username: studomonly
+repo: iamstu
+branch: gh-pages
 relative_source: ../iamstu/
 destination: ../iamstu-pages/
 production_url:  https://studomonly.github.io/iamstu/
