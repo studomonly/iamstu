@@ -5,26 +5,26 @@ language: 'en-uk'
 
 # Website info
 name: 'IAMSTU'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+description: "A blog to get down my personal, political pragmatic and programatic thoughts. I'm a software developer based in Brighton, UK."
 
 # Author's info
 author: 'Stu Lynch'
 # edit 'categories' in the front matter of every post to match this username
 nickname: stu
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+bio: 'I am a mobile software developer based. I develop for iOS & Android. I have an interest in science & politics.'
 location: 'Brighton, UK'
-url: 'http://studomonly.github.io/iamstu/'
-image: 'assets/images/casper.png'
+url: 'http://studomonly.github.io/'
+image: 'assets/images/stu.png'
 
-short_url: 'studomonly.github.io/iamstu/'
+short_url: 'studomonly.github.io'
 google_analytics: UA-69281367-1
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /iamstu/
 
 # Permalinks
 permalink: /:iamstu
-# permalink: /author/:username
-# permalink: /tag/:tag
+#permalink: /author/:username
+#permalink: /tag/:tag
 
 
 # gems and other configs
