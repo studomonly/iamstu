@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/covers/cover8.jpg'
+cover: 'assets/images/thoughts-on-logic/cover.jpg'
 navigation: true
 title: Thoughts on Logic
 date:   2016-02-11 23:19:00
