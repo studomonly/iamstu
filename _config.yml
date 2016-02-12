@@ -8,7 +8,7 @@ name: 'IAMSTU'
 description: "A blog to get down my personal, political pragmatic and programatic thoughts. I'm a software developer based in Brighton, UK."
 
 # Author's info
-author: 'Stu Lynch'
+author: 'Stuart Lynch'
 # edit 'categories' in the front matter of every post to match this username
 nickname: stu
 bio: 'I am a mobile software developer based. I develop for iOS & Android. I have an interest in science & politics.'
