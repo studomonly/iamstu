@@ -14,3 +14,4 @@ env:
 branches:
   only:
   - master
+  - gh-pages
