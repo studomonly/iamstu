@@ -13,5 +13,4 @@ env:
 
 branches:
   only:
-  - gh-pages
-  - /pages-(.*)/
+  - master
