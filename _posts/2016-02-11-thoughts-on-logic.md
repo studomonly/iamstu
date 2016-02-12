@@ -16,7 +16,7 @@ I wonder how many people have been criticised with a similar sentiment as the on
 
 > "Yes, your arguments are very logical, but my beliefs are not based on logic. They are spiritual."
 
-Why is spirituality and logic inherently incompatible? The point I would like to get across in this article, is that everyone uses logic. Logical argument comes very naturally to all of us. It is also possible to make a spiritual argument using logic. This is because, logic is only as good as the assumptions that you make. 
+Why are spirituality and logic inherently incompatible? The point I would like to get across in this article, is that everyone uses logic. Logical argument comes very naturally to all of us. It is also possible to make a spiritual argument using logic. This is because, logic is only as good as the assumptions that you make. 
 
 Let's begin by asking, what is logic? The dictionary definition says the following:
 
@@ -54,11 +54,11 @@ If statement 1 and 2 are true, then we can conclude that statement 3 is also tru
 
 It makes no sense in the context of our own world. However, inferring statement 3 from statements 1 and 2 is logical. Logic has it's power as a mechanism for drawing conclusions. It's abstract, in that you don't need context for it to work. Which makes the subject mathematical, but that doesn't mean it's automatically complicated or should be discounted as only for mathematicians.
 
-So what do we mean when we say something is illogical? Being illogical is drawing a conclusion that is counter to the information we have. For example, let's refer back to the Orange and Fruit example. I introduce the following:
+So what do we mean when we say something is illogical? Being illogical is drawing a conclusion that is counter to the information we have. For example, let's refer back to the Orange and Fruit. I introduce the following:
 
 Statement 4:
 `Boris  does not like Oranges.`
 
-Inferring statement 4 from statements 1 and 2 would be illogical. However, if we later observed Boris throwing away an Orange in disgust, we shouldn't criticise our logic. We should criticise the information that we have which lead us to that conclusion. Logic is our friend, in that it helps us make sense out of information. The accuracy of information is a whole other issue. You could use Science to judge the accuracy of a statement. To do this, you'd have to test the statement. If it consistently held under experimentation it's fair to assume it probably is true. If it fails, it can't be true. If you wanted to use some other method to decide if your assumptions are true, you are free to do so. You just wouldn't have the benefit of knowing that your approach has succeeded in keeping planes in the air, cured numerous diseases and developed technologies which have improved the lives of millions. 
+Inferring statement 4 from statements 1 and 2 would be illogical. However, if we later observed Boris throwing away an Orange in disgust, we shouldn't criticise our logic. We should criticise the information that we have which lead us to that conclusion. Logic is our friend, in that it helps us make sense out of information. The accuracy of information is a whole other issue. You could use Science to judge the accuracy of a statement. To do this, you'd have to test the statement. Your statement becomes a hypothesis. If the hypothesis consistently holds under experimentation it's probably true. If it fails, it can't be true. If you wanted to use some other method to decide if your assumptions are true, you are free to do so. You just wouldn't have the benefit of knowing that your approach has succeeded in keeping planes in the air, cured numerous diseases and developed technologies which have improved the lives of millions. 
 
-In summary, to those who feel that logic isn't for them; it's almost never logic that we disagree on. For example, you may assume that a religious text is literally true. There are a whole host of logical conclusions you can draw because of that. My criticism will be of your base assumptions, rather than the conclusions you have drawn (unless of course, they are actually are illogical). Can we all try to agree that logic isn't the problem?
+In summary, to those who feel that logic isn't for them; it probably is. For the most part i'm sure you're already using it. You might, for example, assume that a religious text is literally true. There are a whole host of logical conclusions you could draw because of that. My challenge will be of your base assumptions. I won't criticise you for using logic. 
