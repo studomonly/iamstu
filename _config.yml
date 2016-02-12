@@ -5,13 +5,13 @@ language: 'en-uk'
 
 # Website info
 name: 'IAMSTU'
-description: "A blog to get down my personal, political pragmatic and programatic thoughts. I'm a software developer based in Brighton, UK."
+description: "A place to get down my personal, political and programatic thoughts."
 
 # Author's info
 author: 'Stuart Lynch'
 # edit 'categories' in the front matter of every post to match this username
 nickname: stu
-bio: 'I am a mobile software developer based. I develop for iOS & Android. I have an interest in science & politics.'
+bio: "I'm a software developer based in the UK. I love a good debate, always open to learn new things."
 location: 'Brighton, UK'
 url: 'http://studomonly.github.io/iamstu'
 image: 'assets/images/stu.png'
