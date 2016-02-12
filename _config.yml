@@ -22,7 +22,7 @@ google_analytics: UA-69281367-1
 baseurl: /iamstu/
 
 # Permalinks
-permalink: /:iamstu
+permalink: /:title
 #permalink: /author/:username
 #permalink: /tag/:tag
 
