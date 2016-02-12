@@ -1,11 +1,17 @@
 language: ruby
 rvm:
 - 2.1
-branches:
-  only:
-  - gh-pages
-  - /pages-(.*)/
+install:
+  # Install Jekyll and dependencies
+  - bundle install
+script: bundle exec rake site:deploy --quiet #--trace
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - secure: LEQX+X71tE082jueavm1DlLryP/mTtlOZCzgeZexm/mp3gqd6Qp7pWadrht+xcSWgl3MgYt7pfPVeSX8bPE0lj6O2/7ctzilVtJmUzbngTfGdoP7c6DphoWvfJiu5Lp/1ovhveiUG7vWyEbyO8ux1hxLsOap65VT2mH+FUyGVWk2EGytexGHhR2dZFvtFrLjdxdXdUS29401Ncv9tvPjkbj6pK7eN6a6Zt6SZBmQP9IVTYsmOtuFneH0VnT6Bdyy9m3T3H84tPmYgf4Pl9/9ydfvh37CH4OV+QPpIfIYPFAkyV+lZpNps1OcB/HCFOGrLsh75ZWJH5+T5lnlNznYupRsTaqtCZcAi8QWsKC4PXIWG1vcErwDDrhund6l7m+Ocs906M6llMzUWvN3xdfr9L5FAvksgPP9yo+cSBEh4ldCGdnk9UqNbxb0U9VQXfvJkwpoeCso8wZCu2zil2cGig4lisUiet+AFOc73iPF14m4oRcteWiVFThS0lTowHGnJIykdZtLmYZRQmqu963aRQ06TMyqoiHOlao7hJRNt40RYTWE8CxVLe3uM/3LhD08F1tCGQvyFKtQSoOEVWzpwJx5V9N8oInSWObmKW3dSSFA6hODcJhbL/rBqMbBE/+at9gujnv3Vd+72tvE32NGS0wFCUAjAL4FDbxTmoVeu00=
+
+branches:
+  only:
+  - gh-pages
+  - /pages-(.*)/
